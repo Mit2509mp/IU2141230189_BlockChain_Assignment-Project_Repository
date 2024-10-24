@@ -21,7 +21,7 @@
 ### Installation Steps:
  clone the repository:
 ```
-git clone https://github.com/vp2008a/blockchain_prj_IU2141230204.git
+git clone https://github.com/Mit2509mp/IU2141230189_BlockChain_Assignment-Project_Repository.git
 
 ```
 After you cloned the repository, you want to install the packages using:
